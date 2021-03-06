@@ -2,7 +2,7 @@
 
 
 The code detects text by creating a **Convolution Neural Network** to Classify digits from 0 to 9. The Training code is **written from scratch** and it trains about 10000 images of 10 different classes . Testing script can deduce the trained model data to use along with a **webcam to detect Digits from 0 to 9**.
-The training phase includes image preprocessing, Reshapping, Argumentation such as cropping, rotating, translation and more, followed by OneHot encoding then we create the model and start the training process and store the trained value.
+The training phase includes image preprocessing, Reshapping, Argumentation such as cropping, rotating, translation and more, followed by OneHot encoding then we create the model and start the training process and save the trained value.
 
 The training code is available under tha name "CNN_Training"
 and the testing code is available under the name "CNN_Testing"
