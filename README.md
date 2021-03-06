@@ -16,13 +16,13 @@ The Dataset which is used for training the CNN is obtained from Char74K  http://
 
 
 **Prerequisite:**
-opncv-python
-keras
-tensorflow
-sklearn
-pickle
-numpy
-matplotlib
+- opncv-python
+- keras
+- tensorflow
+- sklearn
+- pickle
+- numpy
+- matplotlib
 
 
 
